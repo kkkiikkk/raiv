@@ -36,3 +36,5 @@
 /app/assets/builds/*
 !/app/assets/builds/.keep
 *.mp4
+db/seeds/posts_data/1/video.mp4
+db/seeds/posts_data/2/video.mp4
