@@ -66,4 +66,4 @@ gem 'mobility'
 
 gem "friendly_id", "~> 5.5"
 
-gem "tailwindcss-rails", "~> 3.0"
+gem "tailwindcss-rails", "~> 3.1"
